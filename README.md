@@ -14,8 +14,8 @@ This dashboard helps monitor:
 The project focuses on environmental monitoring, maintenance prioritization, and operational analytics using Power BI.  
 
 ## 📂 Dataset
-Table 1 — Plant_Data  
-### Contains operational LDAR monitoring data:  
+### Table 1 — Plant_Data  
+Contains operational LDAR monitoring data:  
 •	Date   
 •	Component Tag No.   
 •	Equipment   
@@ -23,8 +23,8 @@ Table 1 — Plant_Data
 •	Plant   
 •	Screening Value (ppm)   
 •	VOC Emission (Kg/day)   
-Table 2 — Dates  
-### Custom calendar table used for time intelligence analysis:  
+### Table 2 — Dates  
+Custom calendar table used for time intelligence analysis:  
 •	Date   
 •	Year   
 •	Quarter   
